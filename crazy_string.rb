@@ -1,5 +1,9 @@
 # write your method here
-a = "hello"
+def apple
+puts "Apple".reverse.upcase
+end
+apple
+a = "Hello"
 b = "Friends"
 def crazy_strings(a,b)
 puts "#{a}".reverse.upcase
